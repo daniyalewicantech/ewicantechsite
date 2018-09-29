@@ -1,0 +1,27 @@
+Our Services
+We have a diverse set of expertise in IT Services. Our team comprises of individuals that hold expertise in Web development Mobile Applications Development, ERP implementations and customizations along with network and other IT infrastructure related consultations.
+
+-Web Development
+We build websites using cutting edge technologies mainly WordPress and React to ensure the quality of our sites and their performance. If you want a website to be built within days we help you get that done by wordpress. If your site requires performance and has lots of content we help you keep your site up and running smoothly using react. 
+
+-Mobile Application Development
+We have individuals that work on the latest mobile application development technologies. We have people that can help you build your Android apps on latest Java or Kotlin, iOS apps on latest Swift language. We also hold the expertise to build hybrid or native applications using React-Native.
+
+-ERP/E-Commerce
+We provide customizations and integrations for your ERP systems or Ecommerce systems such as Magento, WooCommerce etc.
+
+Portfolio.
+We have a chain of customers that were not only satisfied by our development but were happy as well as we exceeded their expectations. 
+
+TopChef.
+A food providing service startup that got its website and android application developed in 3rd Quarter of the year 2018. We wish them good luck with their startup and hope to do business again with them.
+
+SmartEnglish App.
+An english learning Website and Android application developed for a private university that enables the students to learn english in an innovative and interesting way. The game feature enables the students to use the knowledge that they aquired during learning through the website.  
+
+CraftMaster.pk
+A Catalogue site for a Pakistan based interior and exterior design company for commercial and resedential buildings made on wordpress and WooCommerce store. The site only displays the designs and works that the user can visit and then ask for further information regarding the design they viewed by email.
+
+MacNDT Services LLC
+An American Oil based company portfolio site based on html and CSS to portray their business and services. 
+  
